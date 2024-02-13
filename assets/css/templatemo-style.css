@@ -49,13 +49,15 @@ a:hover {
 }
 
 p {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 28px;
   color: var(--color_text);
 }
-
+h3 {
+  font-size: 16px;
+}
 h4 {
-  font-size: 26px;
+  font-size: 28px;
   font-weight: 700;
   color: var(--color_text);
   letter-spacing: 0.25px;
