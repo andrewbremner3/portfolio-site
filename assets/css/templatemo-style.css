@@ -47,7 +47,10 @@ a:hover {
   text-decoration: none;
   color: #9d6d67;
 }
-
+i {
+  color: var(--color_text);
+  font-size: 10px;
+}
 p {
   font-size: 22px;
   line-height: 28px;
